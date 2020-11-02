@@ -11,6 +11,7 @@
   <summary>데비안 계열</summary>
   
   Ubuntu
+  Kali Linux
 </details>
 <details>
   <summary>레드햇 계열</summary>
