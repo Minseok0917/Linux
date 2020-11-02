@@ -12,7 +12,8 @@
 </details>
 <details>
   <summary>레드햇 계열</summary>
-  - CentOS
+  
+  'CentOS'
 </details>
 
 
