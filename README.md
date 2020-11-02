@@ -12,7 +12,9 @@
 </details>
 <details>
   <summary>레드햇 계열</summary>
-  ### [CentOS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
+  
+### [CentOS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
+
 </details>
 
 
