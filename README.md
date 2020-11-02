@@ -5,10 +5,15 @@
 리눅스 배포 버전은 많지만 크게 3가지 종류가 있다.    
 이 종류 안에 배포버전이 나뉘는 거다.
 <details>
-  <summary>슬렉웨어 계열?</summary>
+  <summary>슬렉웨어 계열</summary>
 </details>
-- 데비안 계열
-- 레드햇 계열
+<details>
+  <summary>데비안 계열</summary>
+</details>
+<details>
+  <summary>레드햇 계열</summary>
+</details>
+
 
   
 
