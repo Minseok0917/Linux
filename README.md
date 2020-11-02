@@ -12,7 +12,8 @@
 </details>
 <details>
   <summary>레드햇 계열</summary>
-  [센트OS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
+  [센트OS][CentOSLink]
+  [CentOSLink] https://github.com/Minseok0917/Linux/blob/main/CentOS.md "CentOS"
 </details>
 
 
