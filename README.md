@@ -13,7 +13,7 @@
 <details>
   <summary>레드햇 계열</summary>
 </details>
-[센트OS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
+[센트OS](/CentOS.md)
 
 
   
