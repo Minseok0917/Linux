@@ -6,21 +6,22 @@
 이 종류 안에 배포버전이 나뉘는 거다.
 <details>
   <summary>슬렉웨어 계열</summary>
-  ### OpenSUSE 
+  
+  ##### OpenSUSE 
   
 </details>
 <details>
   <summary>데비안 계열</summary>
   
-  ### Ubuntu 
-  ### Mint 
+  ##### Ubuntu 
+  ##### Mint 
   
 </details>
 <details>
   <summary>레드햇 계열</summary>
   
-  ### [CentOS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
-  ### Fedora
+  ##### [CentOS](https://github.com/Minseok0917/Linux/blob/main/CentOS.md)
+  ##### Fedora
   
 </details>
 
