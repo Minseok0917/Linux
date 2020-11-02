@@ -12,6 +12,8 @@
 </details>
 <details>
   <summary>레드햇 계열</summary>
+  - 페도라
+  - [센트OS](https://github.com/Minseok0917/Linux/edit/main/README.md)
 </details>
 
 
