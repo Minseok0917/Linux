@@ -12,11 +12,8 @@
 </details>
 <details>
   <summary>레드햇 계열</summary>
+  [센트OS](CentOS.md)
 </details>
-[센트OS](/CentOS.md)
 
 
-  
-
-
-[센트OS](http://zeldahagoshipda.com)
+ 
