@@ -81,6 +81,9 @@ cd fileLink
 rm fileLink 
 ```
 
+####  ```clear``` 정리 
+####  ```man``` 정보
+[Link](https://shaeod.tistory.com/669) "man 명령어"
 
 
 
