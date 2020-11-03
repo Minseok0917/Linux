@@ -49,7 +49,7 @@ mk | 파일 생성
 rm | 파일 삭제
 mkdir | 폴더 생성
 rmdir | 폴더 삭제
-cp | 복사 
+cp | ```  ```
 
 ( file1을 file2로 복사함 ) | cd file1 folder/ ( file1를 folder/ 안에 복사함 ) | cd -r folder/  folderCopy/ ( folder를 folderCopy라는 이름으로 복사함 )
 ``` terminal
