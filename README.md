@@ -48,6 +48,9 @@ cd | 폴더 이동
 mk | 파일 생성
 rm | 파일 삭제 
 mkdir | 폴더 생성 
+```
+mkdir -p a/b/c 
+```
 rmdir | 폴더 삭제 
 cp | 복사 
 ``` terminal
