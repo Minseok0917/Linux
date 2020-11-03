@@ -97,3 +97,6 @@ su - 계정이름
 [Link](https://recipes4dev.tistory.com/157) "grep 명령어"
 ####  ```find``` 파일 
 [Link](https://recipes4dev.tistory.com/156) "find 명령어"
+
+## 순서도 
+VMware ( 가상머신 ) -> Linux 배포판 추가 -> 터미널 ( vi editor, shell script )
