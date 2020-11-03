@@ -42,12 +42,26 @@
 ## 명령어 
 
 ###### ```pwd``` 현재 경로
-- 터미널에 pwd 치면 된다.
 ###### ```cd``` 폴더 이동
 ######  ```mk``` 파일 생성
 ######  ```rm``` 파일 삭제
+명령어 | 설명
+------| 
+r | 파일 디렉토리 함께 삭제
+f | 파일 유무와 상관없이 삭제
+```
+ 
+```
 ######  ```mkdir``` 폴더 생성
+```
+cp file1 file2 : ( file1을 file2라는 이름으로 복사함 )
+cp file folder/ : ( file을 folder로 복사시킴 )
+cp -r name/ nameBackup/ ( name폴더안에 있는 내용을 nameBackup 
+```
 ######  ```rmdir``` 폴더 삭제
+```
+rmdir 폴더명
+```
 ######  ```cp``` 복사
 
 ( file1을 file2로 복사함 ) | cd file1 folder/ ( file1를 folder/ 안에 복사함 ) | cd -r folder/  folderCopy/ ( folder를 folderCopy라는 이름으로 복사함 )
