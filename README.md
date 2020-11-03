@@ -53,22 +53,25 @@ f | 파일 유무와 상관없이 삭제
 rm -rf foldername
 ```
 ####  ```mkdir``` 폴더 생성
+명령어 | 설명
+-----| ----- |
+p | 없는 폴더도 만듬
 ```
-cp file1 file2 : ( file1을 file2라는 이름으로 복사함 )
-cp file folder/ : ( file을 folder로 복사시킴 )
-cp -r name/ nameBackup/ ( name폴더안에 있는 내용을 nameBackup 
+mkdir -p a/b/c/
 ```
 ####  ```rmdir``` 폴더 삭제
 ```
 rmdir 폴더명
 ```
 ####  ```cp``` 복사
-
-( file1을 file2로 복사함 ) | cd file1 folder/ ( file1를 folder/ 안에 복사함 ) | cd -r folder/  folderCopy/ ( folder를 folderCopy라는 이름으로 복사함 )
-``` terminal
-cp file1 file2 
-cp file1 dir/
-cp -r fileFolder dir/
+명령어 | 설명
+----| ----|
+r | 안에 있는 내용 포함
+```
+cp file1 file2 : ( file1을 file2라는 이름으로 복사함 )
+cp file folder/ : ( file을 folder로 복사시킴 )
+cp -r name/ nameBackup/ : ( name폴더안에 있는 내용을 nameBackup폴더로 복사 )
+cp -r name/ folder/ : ( name폴더와 내용모두를 folder폴더 안으로 복사 )
 ```
 
 
