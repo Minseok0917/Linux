@@ -41,15 +41,17 @@
 
 ## 명령어 
 
-명령어 | 설명 | 예제
------- | ----- | -----|
-pwd | 현재 경로 | pwd
-cd | 폴더 이동 | cd / 
-mk | 파일 생성 | mk test.sh
-rm | 파일 삭제 | rm test.sh
-mkdir | 폴더 생성 | mkdir -p folder ( 여러 개 만들 시 -p 를 적용해야 된다 )
-rmdir | 폴더 삭제 | rmdir folder
-cp | 복사 |  cd file1 file2  ( file1을 file2로 복사함 ) | cd file1 folder/ ( file1를 folder/ 안에 복사함 ) | cd -r folder/  folderCopy/ ( folder를 folderCopy라는 이름으로 복사함 )
+명령어 | 설명 
+------ | ----- |
+pwd | 현재 경로
+cd | 폴더 이동
+mk | 파일 생성
+rm | 파일 삭제
+mkdir | 폴더 생성
+rmdir | 폴더 삭제
+cp | 복사 
+
+( file1을 file2로 복사함 ) | cd file1 folder/ ( file1를 folder/ 안에 복사함 ) | cd -r folder/  folderCopy/ ( folder를 folderCopy라는 이름으로 복사함 )
 ``` terminal
 cp file1 file2 
 cp file1 dir/
