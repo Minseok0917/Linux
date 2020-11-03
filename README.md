@@ -74,6 +74,12 @@ cp file folder/ : ( file을 folder로 복사시킴 )
 cp -r name/ nameBackup/ : ( name폴더안에 있는 내용을 nameBackup폴더로 복사 )
 cp -r name/ folder/ : ( name폴더와 내용모두를 folder폴더 안으로 복사 )
 ```
+####  ```In``` 심볼릭 링크
+```
+In -s file fileLink
+cd fileLink
+rm fileLink 
+```
 
 
 
