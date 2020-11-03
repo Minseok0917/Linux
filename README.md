@@ -85,7 +85,9 @@ rm fileLink
 ####  ```man``` 정보
 [Link](https://shaeod.tistory.com/669) "man 명령어"
 
-
-
-
+#### ```su``` 계정전환 
+```
+su - 계정이름 
+암호 : 패스워드 
+```
 
