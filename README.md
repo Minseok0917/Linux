@@ -95,3 +95,5 @@ su - 계정이름
 ####  ```!!``` 현제 커맨드에서 쓴 명령어
 ####  ```grep``` 텍스트 정규식 
 [Link](https://recipes4dev.tistory.com/157) "grep 명령어"
+####  ```find``` 파일 
+[Link](https://recipes4dev.tistory.com/156) "find 명령어"
