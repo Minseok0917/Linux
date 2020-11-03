@@ -49,7 +49,12 @@ mk | 파일 생성
 rm | 파일 삭제 
 mkdir | 폴더 생성 
 rmdir | 폴더 삭제 
-
+cp | 복사 
+``` terminal
+cp file1 file2 
+cp file1 dir/
+cp -r fileFolder dir/
+```
 
 
 
